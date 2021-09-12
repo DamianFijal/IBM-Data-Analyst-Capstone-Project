@@ -1,6 +1,6 @@
 # IBM-Data-Analyst-Capstone-Project
 
-This repository is for all the coding for the Capstone Projest from IBM Data Analyst course. 
+This repository is for all coding for the Capstone Projest from IBM Data Analyst course. 
 
 The repository consist:
  - Collecting Data Using API's and Webscrapping
